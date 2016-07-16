@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
         for (int i = 0; i < images.length; i++) {
 
-            ImageModel imageModel = new ImageModel(images[i], "peakcock_" + (i+1));
+            ImageModel imageModel = new ImageModel(images[i], "peacock_" + (i+1));
             mImageList.add(imageModel);
 
         }
